@@ -1,0 +1,9 @@
+pane	2	0	:bash	1	:*	0	:/home/alex/.tmux/plugins/tpm	1	bash	:
+pane	Development	0	:FrontEnd	1	:*	0	:/home/alex/src/pvm-gui	0	node	:node /home/alex/.nvm/versions/node/v9.11.1/bin/yarn start
+pane	Development	0	:FrontEnd	1	:*	1	:/home/alex/src/pvm-gui	1	bash	:
+pane	Development	1	:BackEnd	0	:-	0	:/home/alex/src/cacahuate	1	python3	:/home/alex/src/cacahuate/.env/bin/python3 /home/alex/src/cacahuate/.env/bin/flask run
+pane	Development	1	:BackEnd	0	:-	1	:/home/alex/src/cacahuate	0	python3	:/home/alex/src/cacahuate/.env/bin/python3 /home/alex/src/cacahuate/.env/bin/cacahuated
+window	2	0	1	:*	ae64,80x23,0,0,7
+window	Development	0	1	:*	dcf6,144x33,0,0[144x16,0,0,9,144x16,0,17,10]
+window	Development	1	0	:-	5cf6,144x33,0,0[144x16,0,0,8,144x16,0,17,11]
+state	Development	

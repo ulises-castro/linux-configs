@@ -1,6 +1,6 @@
 # Linux configs
 
-The main purpuse is you have a nicer experience on you linux.
+The main purpuse is have a nicer experience on you linux.
 
 #### This repository helps you to configure:
 
