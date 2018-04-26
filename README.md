@@ -2,17 +2,17 @@
 
 The main purpuse is you have a nicer experience on you linux.
 
-#### This repository helps you configure to:
+#### This repository helps you to configure:
 
 * Tmux
 * Sublime Text 3
-* A helper GIT which provides us a easy way to know in what brach we are and whether there are changes.
+* A helper GIT that provides us a easy way to know in which brach we are and whether there are changes.
 
 ## First of all
 
-* You have be into your personal folder (home/here-your-username) and then run the following command  
+* You have to be into your personal folder (home/here-your-username) and then you should run the following command:
 
-```bash
+```
 git clone https://github.com/ulises-castro/linux-configs.git
 ```
 
@@ -22,10 +22,10 @@ git clone https://github.com/ulises-castro/linux-configs.git
 
 **We have to clone a tmux pro**
 
-1. run the following code into your personal folder:
+1. Run the following code into your personal folder:
 
-```bash
-https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+```
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
 2. Did it that, run this:
@@ -43,4 +43,5 @@ $ tmux source ~/.tmux.conf
 
 ### Sublime
 
-You do not have do anything.
+You do not have anything to do.
+
