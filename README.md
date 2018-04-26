@@ -36,10 +36,27 @@ $ tmux source ~/.tmux.conf
 
 **You must go to a tmux enviroment and then run prefix + I for what tmux plugins will be installed correctly.**
 
-- Here a brief list of plugins.
+- Brief list of plugins.
 
 * [Tmux Resurrect](http://github.com/tmux-plugins/tmux-resurrect)
 * [Tmux Continuum](http://github.com/tmux-plugins/tmux-continuum)
+
+### Helper Git
+
+Edit your .bashr or equivalent, did it this search in it the following code
+
+```bash
+PS1='\[\033[01;32m\][\u@\h\[\033[01;37m\] \W\[\033[01;32m\]]\$\[\033[00m\] '
+```
+
+Replace/comment it for
+
+```bash
+PS1="[\[\033[01;32m\]\u@\h\[\033[00m\] \[\033[01;34m\]\W\[\033[00m\]]\$($( cat ~/.local/git-ps1.sh ))> "
+```
+
+
+You have to ensure the file "git-ps1.sh" is in your ".local" directory.
 
 ### Sublime
 
