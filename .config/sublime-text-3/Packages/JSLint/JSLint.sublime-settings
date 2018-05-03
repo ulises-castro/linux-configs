@@ -38,7 +38,12 @@
 
     // ,"jslint" : ["jslint"]
 
-
+    //#######################################
+    //            Configure directory 
+    //#######################################
+    
+    ,"jslint": ["/home/alex/.nvm/versions/node/v9.11.1/bin/node", "~/.config/sublime-text-3/Packages/JSLint/linter.js"]
+    
     // if your own personal choice of jslint has an output
     // different from the standard which comes with this package,
     // you may have to change line_regex and file_regex
