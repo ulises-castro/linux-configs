@@ -25,7 +25,7 @@ The main purpuse is have a nicer experience on you linux.
 
 #### Issues 
  - If you want to style looks like this, but it doesnt look that.
-   [Check this](https://imgur.com/a/CvAfB3Q)
+   [Check this](https://i.imgur.com/yysO3nf.png)
 
     You can achive it with this | assuming you have configured correctly Powerline (Talking about fonts configuration specially).
     2) You just to change font family in terminal settings and choice Powerline and then change to Ubuntu Medium
