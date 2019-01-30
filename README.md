@@ -10,13 +10,25 @@ The main purpuse is have a nicer experience on you linux.
 
 ## First of all
 
-* You have to be into your personal folder (home/here-your-username) and then you should run the following command:
+  ### You can choice one of the following options.
+  1) Use tmux config for your terminal
+   For that option, you have to copy this into your .config forder (it used to located into home folder)
+ ```
+    git clone https://github.com/ulises-castro/linux-configs.git
+ ```
 
-```
-git clone https://github.com/ulises-castro/linux-configs.git
-```
+  2) Use Powerline and Tilix terminal (I recommend) 
+    * You have to download tilix - [Follow steps](https://github.com/gnunn1/tilix)
+    * You have to donwload Powerline and configure it - [Follow steps](https://github.com/powerline/powerline)
 
-* Now you have to follow the following instructions bellow.
+### Tilix and Powerline configuration
+
+#### Issues 
+ - If you want to style looks like this, but it doesnt look that.
+   ![Check this](https://imgur.com/a/CvAfB3Q)
+
+    You can achive it with this | assuming you have configured correctly Powerline (Talking about fonts configuration specially).
+    2) You just to change font family in terminal settings and choice Powerline and then change to Ubuntu Medium
 
 ### Tmux configuration
 
