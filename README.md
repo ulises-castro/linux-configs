@@ -74,3 +74,6 @@ You have to ensure the file "git-ps1.sh" is in your ".local" directory.
 
 You do not have anything to do.
 
+## Others configurations
+
+(https://gist.github.com/leosuncin/25bad6ae66c5d513b986)
