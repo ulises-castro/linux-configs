@@ -30,6 +30,11 @@ The main purpuse is have a nicer experience on you linux.
     You can achive it with this | assuming you have configured correctly Powerline (Talking about fonts configuration specially).
     2) You just to change font family in terminal settings and choice Powerline and then change to Ubuntu Medium
 
+ - Branch doesnt show in terminal
+  Solution: https://github.com/powerline/powerline/issues/186#issuecomment-247810572
+ - How to configure
+  (https://gist.github.com/leosuncin/25bad6ae66c5d513b986)
+
 ### Tmux configuration
 
 **We have to clone a tmux pro**
@@ -74,6 +79,3 @@ You have to ensure the file "git-ps1.sh" is in your ".local" directory.
 
 You do not have anything to do.
 
-## Others configurations
-
-(https://gist.github.com/leosuncin/25bad6ae66c5d513b986)
