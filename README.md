@@ -33,7 +33,8 @@ The main purpuse is have a nicer experience on you linux.
  - Branch doesnt show in terminal
   Solution: https://github.com/powerline/powerline/issues/186#issuecomment-247810572
  - How to configure
-  (https://gist.github.com/leosuncin/25bad6ae66c5d513b986)
+  [Explanations how to install powerline](https://gist.github.com/leosuncin/25bad6ae66c5d513b986)
+  [Adding config files and git status](https://github.com/gravyboat/powerline-config)
 
 ### Tmux configuration
 
